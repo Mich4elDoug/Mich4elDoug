@@ -1,8 +1,6 @@
 ![Banner_MDB](https://user-images.githubusercontent.com/70289115/124485613-21a75200-dd83-11eb-977b-c8ffc5e30fea.jpg)
 
-<br>
-
-<h3 align="center">I'm a Student, Undergraduate and Developer!</h3>
+<h3 align="center">I'm a Student, Undergraduate and Junior Developer!</h3>
 
 
 <div > <img align = "right" width="300" alt="That's perfect GIF" src="https://media.giphy.com/media/3o6Mb9rUQ5v4ZnBbzO/giphy.gif" /> </div>
